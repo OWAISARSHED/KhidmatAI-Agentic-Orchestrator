@@ -43,8 +43,6 @@ Connect your test device and press Shift + F10 to compile and run the applicatio
 
 📊 Live Orchestration Layout
 When a user submits a request, the standalone client automatically maps and updates the layout frame using specific agent sequence tags:
-
-Plaintext
 ╔══════════════════════════════╗
    KhidmatAI - Request Complete
 ╚══════════════════════════════╝
